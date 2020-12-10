@@ -1,0 +1,8 @@
+CURRENT KNOWN BUGS IN THE PROGRAM:
+
+UPDATES AS OF 12/10/2020
+1) After unpausing game, the player jumps.  This can cause the player to crash into sprites and lose.
+2) If the player holds the jump button for too long, they can jump out of the game infinitely.
+3) Duck function doesn't work (Where the player can duck under some sprites).  Instead of properly ducking, the player's character will lower its size upwards instead of downwards.
+4) Gives coins too frequently (Minor issue, not as important as the other bugs).
+5) Player can unpause the game by pressing any regular in-game buttons, such as UP, DOWN, LEFT, and RIGHT.
