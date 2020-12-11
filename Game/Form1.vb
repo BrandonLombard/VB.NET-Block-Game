@@ -376,6 +376,7 @@ Public Class Form1
             'Add 1 to coins_counter if player touches a coin and resets coin position
             coins_counter.Text = coins_counter.Text + 1
             coin.Left = 650
+            coin_.Enabled = False
         End If
 
         'If player health bar runs out, player will die and menu will pop up with options
